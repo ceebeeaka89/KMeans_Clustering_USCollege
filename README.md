@@ -1,7 +1,7 @@
 # KMeans_Clustering_USCollege
 
 # Background
-I am using college data to cluster univeristies into two groups. I want to know if the algorithm can distinguish the differences betweeen univeristies based on the features .
+I am using college data to cluster universities into two groups. I want to know if the algorithm can distinguish the differences between universities based on the features .
 
 # Data
 
